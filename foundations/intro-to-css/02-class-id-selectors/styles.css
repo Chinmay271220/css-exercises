@@ -1,13 +1,8 @@
 /* styles.css */
 
-.number1,
-.number3,
-.number5{
+.odd{
     background-color: #ff000080;
-    font-family: Verdana, Geneva, sans-serif;
-    font-size: 18px;
-
-
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
 #number2 {
